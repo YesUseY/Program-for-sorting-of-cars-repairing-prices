@@ -1,0 +1,6 @@
+5
+1 tepalai 100
+2 stabdziai 50
+3 guolis 300
+4 dirzelis 600
+5 plovimas 15
